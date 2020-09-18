@@ -1,4 +1,4 @@
-# TastyToast
+# TastyToastAndroidX
 
 Make your native android toast look beautiful.
 
