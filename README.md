@@ -9,7 +9,7 @@ Add dependency in your app module
 
 ```
 dependencies {
-		implementation 'com.github.immujahidkhan:TastyToastAndroidX:0.0.1'
+		implementation com.github.immujahidkhan:TastyToastAndroidX:0.0.2
 }
 ```
 
